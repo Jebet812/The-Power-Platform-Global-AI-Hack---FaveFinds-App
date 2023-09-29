@@ -22,7 +22,7 @@ FaveFinds uses SharePoint as its data storage system. This allows for seamless i
 * Making the app responsive across all devices
 * Include more ways consumers can customize their selections
 * Incorporate Power Automate to alert customers as they bid
-* Incorporate a log in screen for both the influncers and consumers
+* Incorporate a log in screen for both the influencers and consumers
 
 </br>
 </br>
